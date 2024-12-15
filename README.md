@@ -1,10 +1,5 @@
 <h1 align="left">Holá 👋, I am Diwash Lamichhane</h1>
 
-###
-
-<h3 align="left">About me</h3>
-
-###
 
 <p align="left">✨I am a Full Stack Web Developer</p>
 
