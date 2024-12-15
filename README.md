@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨I am a Full Stack Web Developer <br>📚 I am learning Devoops and microservices<br>🎯 I am working on a med-tech startup.<br>🎲 Fun Fact: I love to write poems, read classical literature and craft designs.</p>
+<p align="left">✨I am a Full Stack Web Developer</p>
 
 ###
 
