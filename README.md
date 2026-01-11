@@ -1,45 +1,19 @@
-<div align="center">
+# Hi 👋, I'm Diwash Lamichhane
 
-# 👋 Diwash Lamichhane
+### CS & Math Student | System Design • AI • Quantum Computing
 
-**Full-Stack Developer • CS & Math**  
-Systems • AI • Web
+- Working on:  **Divault (https://divault.io)**
 
-</div>
+- 👨‍💻 Portfolio:  **[https://diwashlamichhane.com.np](https://diwashlamichhane.com.np)**
 
----
+- 👯 Looking to collaborate on:
 
-## ⌨️ Stack
+    **Systems**: Scalable architecture & Distributed networks.
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind"/>
-</p>
+    **AI**: LLM implementation & Neural-Math hybrids.
 
----
+    **Quantum**: Algorithm research & Qiskit-based optimization.
 
-## 📊 GitHub Stats
+    **Modern Cryptography**: Zero-knowledge proofs & Post-quantum security.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lamdiv&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=9f9f9f" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamdiv&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=9f9f9f" height="165" alt="Top Languages"/>
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lamdiv&theme=transparent&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak"/>
-</div>
-
----
-
-<div align="center">
-  <sub>building quietly. learning constantly.</sub>
-</div>
+- Connect me on: &nbsp; <a href="https://linkedin.com/in/diwashlamichhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diwashlamichhane" height="20" width="20" /></a>
